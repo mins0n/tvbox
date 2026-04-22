@@ -1,10 +1,10 @@
 var rule = {
     title: 'Missav888',
     host: 'https://missav888.com',
-    homeUrl: '/cn',
+    homeUrl: '/ja',
 
-    url: '/cn/fyclass?page=fypage',
-    searchUrl: '/cn/search/**',
+    url: '/ja/fyclass?page=fypage',
+    searchUrl: '/ja/search/**',
 
     headers: {
         'User-Agent': 'MOBILE_UA'
@@ -14,8 +14,8 @@ var rule = {
     limit: 6,
     play_parse: true,
 
-    class_name: '最近更新&新作上市&无码流出&FC2&麻豆传媒&本月热门',
-    class_url: 'new&release&uncensored-leak&fc2&madou&monthly-hot',
+    class_name: '最近更新&新作上市&FC2&无码流出&麻豆传媒&今日热门&本周热门&本月热门',
+    class_url: 'new&release&fc2&uncensored-leak&madou&today-hot&weekly-hot&monthly-hot',
 
     lazy: '',
 
